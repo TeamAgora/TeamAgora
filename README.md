@@ -47,11 +47,11 @@
 # Some Projects
 
 
-<a href="https://github.com/TeamAgora/SpamBot">
+<a href="https://github.com/TeamAgora">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamAgora&repo=SpamBot&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/TeamAgora/banall">
+<a href="https://github.com/TeamAgora">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamAgora&repo=banall&cache_seconds=86400&theme=gotham">
 </a>
 
